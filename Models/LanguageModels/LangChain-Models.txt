@@ -1,0 +1,7 @@
+LangChain Models are designed to simplify the interaction with various language and embedding models.
+
+Language models: You can use them to build applications like text summarization tools or code generation systems. These are general-purpose LLMs (Large Language Models).
+
+Chat models: Ideal for building chatbot applications that can engage in dynamic conversations.
+
+Embedding models: Perfect for creating RAG (Retrieval-Augmented Generation) applications, which are primarily used for semantic search tasks.
